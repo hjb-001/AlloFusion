@@ -72,7 +72,7 @@ Then, AlloFusion program will perform the feature extraction and prediction proc
 
 The final prediction result is a file containing the residue IDs of AFRs residues:
 
-4ZSI_allosteric_residues.txt
+`4ZSI_allosteric_residues.txt`
 
 ```
 AlloFusion Allosteric Site Forming Residues:
