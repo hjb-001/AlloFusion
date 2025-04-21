@@ -1,4 +1,4 @@
-# **AlloFusion: A Deep Learning Method for Allosteric Site Prediction Based on Language Models and Multi-Feature Fusion**
+# **AlloFusion: Allosteric Site Prediction Based on Language Models and Multi-Feature Fusion**
 
 The AlloFusion program is a method for protein allosteric site prediction. 
 
