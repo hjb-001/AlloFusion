@@ -1,0 +1,2 @@
+DeepAllo Allosteric Site Forming Residues:
+Residues: ( Chain P and resid  117, 607, 163, 264, 153, 115, 170, 162, 604, 605, 173, 166, 114, 276, 172, 603, 111, 165, 169, 159, 176 )

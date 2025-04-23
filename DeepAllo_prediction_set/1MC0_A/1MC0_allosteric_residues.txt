@@ -1,0 +1,2 @@
+DeepAllo Allosteric Site Forming Residues:
+Residues: ( Chain A and resid  480, 495, 457, 426, 481, 484, 456, 452, 459, 512, 458 )

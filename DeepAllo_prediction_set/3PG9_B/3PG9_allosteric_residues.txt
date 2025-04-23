@@ -1,0 +1,2 @@
+DeepAllo  Allosteric Site Forming Residues:
+Residues: ( Chain B and resid  34, 35 )
