@@ -1,0 +1,5 @@
+PASSer Allosteric Site Forming Residues (Top Prediction):
+
+Top Prediction: 81.10% probability
+Residues: chain A and resid 541 422 443 537 533 445 419 538 438 418 446 447 420 535 417 421 423
+
