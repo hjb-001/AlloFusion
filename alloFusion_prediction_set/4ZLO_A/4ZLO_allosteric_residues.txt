@@ -1,0 +1,2 @@
+AlloFusion Allosteric Site Forming Residues:
+Residues: ( Chain A and resid  299, 315, 316, 319, 327, 328, 330, 341, 342, 344, 386, 387, 405, 406, 407 )
