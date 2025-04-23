@@ -1,0 +1,5 @@
+alloFusion Success Rate: 95.83%
+Passer allositePro Success Rate: 63.64%
+Passer Rank Success Rate: 58.33%
+Passer Ensemble Success Rate: 66.67%
+Passer Automl Success Rate: 66.67%
