@@ -36,7 +36,29 @@ The AlloFusion program is a method for protein allosteric site prediction.
 
 
 ---
+## 🔍 Model Download Instructions
 
+Due to the large size of the trained model file (exceeding GitHub's file size limit), it has been uploaded to the [Releases](https://github.com/hjb-001/AlloFusion/releases) section of this repository.
+
+Please visit the Releases page to download the full model file:
+
+👉 [Click here to download the model from the Releases page](https://github.com/hjb-001/AlloFusion/releases)
+
+After downloading, place the model file in the project root directory or the designated model folder to use it or reproduce the experimental results.
+
+---
+## 📁 Dataset Download Instructions
+
+Due to the large size of the dataset (exceeding GitHub's file size limit), it has also been uploaded to the [Releases](https://github.com/hjb-001/AlloFusion/releases) section of this repository.
+
+Please visit the Releases page to download the full dataset:
+
+👉 [Click here to download the dataset from the Releases page](https://github.com/hjb-001/AlloFusion/releases)
+
+After downloading, extract the dataset to the project root directory or the designated data folder to proceed with training or evaluation.
+
+
+----
 ## How to run
 
 **Step 1:** Extract protein sequence based on input pdbid and chain
