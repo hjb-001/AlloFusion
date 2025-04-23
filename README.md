@@ -102,3 +102,5 @@ Residues: ( Chain B and resid 92, 95, 96, 97, 98, 99, 109, 111, 140, 142, 144, 1
 ```
 
 and the script for viewing the allosteric sites composed of AFRs in PyMol: `4ZSI_allosteric_sites.pml`.
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/11f21e81-3da1-4c9a-9bab-e8f488bc8290" />
+
