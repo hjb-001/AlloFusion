@@ -1,0 +1,3 @@
+Allosteric Site Forming Residues:
+
+LEU235,GLU236,GLU260,MET264
